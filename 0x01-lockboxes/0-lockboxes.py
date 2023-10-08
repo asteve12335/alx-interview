@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 "LockBoxes interview question"
 
+
 def canUnlockAll(boxes):
     """Determines if all the boxes can be opened."""
     # Check if the input list is None or empty.
