@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"LockBoxes interview question"
+"""LockBoxes interview question"""
 
 
 def canUnlockAll(boxes):
